@@ -1,4 +1,4 @@
-"""Train and evaluate the six-page course report experiments."""
+"""Train and evaluate node anomaly detectors on Books and Disney."""
 
 import argparse
 import csv

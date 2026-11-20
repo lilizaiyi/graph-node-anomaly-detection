@@ -1,4 +1,4 @@
-"""Small undirected attributed graphs. Dense implementation for course experiments."""
+"""Load and validate small undirected attributed graphs."""
 import numpy as np
 
 
