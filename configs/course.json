@@ -1,0 +1,12 @@
+{
+  "seeds": [42, 43, 44, 45, 46],
+  "epochs": 200,
+  "hidden": 32,
+  "latent": 8,
+  "lr": 0.005,
+  "pairs_per_class": 8,
+  "attr_weight": 0.5,
+  "pca_rank": 8,
+  "torch_threads": 2,
+  "review_budget": 10
+}
